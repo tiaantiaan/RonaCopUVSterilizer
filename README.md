@@ -97,7 +97,7 @@ The electronics were wired as follows:
 
 
 ## Step 3: The code
-The arduino sketch named 'ronacop_uv_steriliser' was uploaded to the nano using the Arduino IDE. 
+Upload the file:'ronacop_uv_controller.ino' to your arduino using the Arduino IDE. 
 
 ## Step 4: Usage
 Place an item to sterilise inside the box and close the lid.

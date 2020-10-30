@@ -1,7 +1,7 @@
 # 'ronaCop UV Steriliser: A SAFE Arduino controlled UV-C Steriliser for domestic use.
 
 <!--- [![HitCount](http://hits.dwyl.com/tiaantiaan/RonaCopUVSterilizer.svg)](http://hits.dwyl.com/tiaantiaan/RonaCopUVSterilizer)  --->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL-3](https://img.shields.io/github/license/tiaantiaan/RonaCopUVSterilizer)](https://opensource.org/licenses/GPL-3.0)
 
 There are a few commercial and DIY UV sterilisers out there that aim to inactivate the SARS-CoV-2 virus on objects such as masks and everyday items. After reading up on a lot of scienticic research on the topic and investigating some existing solutions, I found that there are some really good systems as well as some really unsafe devices out there..
 
@@ -133,7 +133,9 @@ The lamp
 ## References
  
 [1] M Weiss, M.C. Horzinek. "Resistance of Berne virus to physical and chemical treatment", *Veterinary Microbiology*, vol. 11, pp. 41-49, 1986.
+
 [2] M.E.R Darnell, et al. "Inactivation of the coronavirus that induces severe acute respiratory syndrome, SARS-CoV", *Journal of Virological Methods*, vol. 121, pp. 85-94, 2004.
+
 [3] H Inagaki H, et al. "Rapid inactivation of SARS-CoV-2 with Deep-UV LED irradiation.", Preprint doi: https://doi.org/10.1101/2020.06.06.138149. (unreviewed preprint), 2020.
 
 

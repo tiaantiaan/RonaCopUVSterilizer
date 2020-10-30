@@ -89,7 +89,7 @@ To contribute documentation:
 * Make sure your changes are formatted correctly and consistently with the rest of the documentation.
 * Re-read what you wrote, and run a spellchecker on it to make sure you didn't miss anything.
 * Write clear, concise commit message(s) using [conventional-changelog format](https://github.com/conventional-changelog/conventional-changelog-angular/blob/master/convention.md). Documentation commits should use `docs(<component>): <message>`.
-* Go to https://github.com/tiaantiaan/ronacopUV/pulls and open a new pull request with your changes.
+* Go to https://github.com/tiaantiaan/RonaCopUVSterilizer/pulls and open a new pull request with your changes.
 * If your PR is connected to an open issue, add a line in your PR's description that says `Fixes: #123`, where `#123` is the number of the issue you're fixing.
 
 Once you've filed the PR:
@@ -115,7 +115,7 @@ To contribute code:
 * Write tests that verify that your contribution works as expected.
 * Write clear, concise commit message(s) using [conventional-changelog format](https://github.com/conventional-changelog/conventional-changelog-angular/blob/master/convention.md).
 * Dependency updates, additions, or removals must be in individual commits, and the message must use the format: `<prefix>(deps): PKG@VERSION`, where `<prefix>` is any of the usual `conventional-changelog` prefixes, at your discretion.
-* Go to https://github.com/tiaantiaan/ronacopUV/pulls and open a new pull request with your changes.
+* Go to https://github.com/tiaantiaan/RonaCopUVSterilizer/pulls and open a new pull request with your changes.
 * If your PR is connected to an open issue, add a line in your PR's description that says `Fixes: #123`, where `#123` is the number of the issue you're fixing.
 
 Once you've filed the PR:
@@ -136,7 +136,7 @@ Sometimes, the `support` label will be added to things that turn out to actually
 
 In order to help other folks out with their questions:
 
-* Go to the issue tracker and [filter open issues by the `support` label](https://github.com/tiaantiaan/ronacopUV/issues?q=is%3Aopen+is%3Aissue+label%3Asupport).
+* Go to the issue tracker and [filter open issues by the `support` label](https://github.com/tiaantiaan/RonaCopUVSterilizer/issues?q=is%3Aopen+is%3Aissue+label%3Asupport).
 * Read through the list until you find something that you're familiar enough with to give an answer to.
 * Respond to the issue with whatever details are needed to clarify the question, or get more details about what's going on.
 * Once the discussion wraps up and things are clarified, either close the issue, or ask the original issue filer (or a maintainer) to close it for you.

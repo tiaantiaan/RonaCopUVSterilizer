@@ -39,13 +39,7 @@ Only the areas of an object that are exposed to UV-C light are being sterilised.
 Porous surfaces, such as the material on masks, may need onger exposure times than hard surfaces to ensure that the desired UV-C dosage gets applied to the more obfuscated areas of the material.
 
 ### User errors
-User testing has shown that users tend to put an item in the steriliser and forget about it. This may be an unsafe practice as firstly the material of the object may begin to deteriorate. Or a person may have intended to sterilise more objects or reposition them but forgot about it, resulting in them having to use a partially or unsterilised object.
-
-
-A component of the RonaCop project: A UVC sterilizer box used for sterilizing masks and everyday objects.
-
-This is part of the RonaCop project that aims to reduce the spread of the Corona virus within households by using technology.
-
+User testing has shown that users tend to put an item in the steriliser and forget about it. This may be an unsafe practice as firstly the material of the object may begin to deteriorate. Or a person may have intended to sterilise more objects or reposition them but forgot about it, resulting in them having to use partially or unsterilised objects.
 
 # The solution
 Taking the above safetly concern into account, this project incorporates the following:

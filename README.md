@@ -132,6 +132,7 @@ When sterilisation is done, the buzzer will sound and the following notification
 
 ### Demo
 Click the image to view the demo:
+
 [![Demo video](http://img.youtube.com/vi/ahyD6hDdmNY/0.jpg)](http://www.youtube.com/watch?v=ahyD6hDdmNY "Demo")
 
 # Future improvements

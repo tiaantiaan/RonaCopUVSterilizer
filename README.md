@@ -7,6 +7,9 @@ There are a few commercial and DIY UV sterilisers out there that aim to inactiva
 
 This project hopes to create a solution that addresses some of these safely concerns and add a few features to increase the safety and reliability of a UV-C steriliser for household items.
 
+![UV-C Steriliser](images/outside.jpg)
+
+
 ## WARNING: UV-C light is dangerous as it can modify DNA, cause burns and cause damage to the eyes. NEVER LOOK INTO A UV-C LIGHT WHEN IT IS ON and NEVER expose any part of your body to it.
 
 ## Safety considerations
@@ -74,12 +77,20 @@ Taking the above safetly concern into account, this project incorporates the fol
 - Light sensor
 
 ## Step 1: The enclosure
-I used a non transparent plastic enclosure and lined with aluminium foil. Aluminium is an effective reflector of UV-C light. I found that a glue stick used for sticking paper worked nicely in adhering the foil to the plastic.
+I used a non transparent plastic enclosure and lined it with aluminium foil. Aluminium is an effective reflector of UV-C light. I found that a glue stick used for sticking paper worked nicely in adhering the foil to the plastic.
+
+![Box lined with aluminium foil](images/inside_top.jpg)
+
 
 The 2 microswitches were located below each handle and secured with small nuts and bolts.
 
+![Microswitch below handle](images/micro_switch_1.jpg)
+
 
 For the lamp, I used a pre-build fluorescent tube holder that included a ballast and lamp holders. I had to cut it a bit shorter so that it fit the 3ft fluorescent tube. I mounted this to the bottom of the case. And placed a removable grid on top of some long screws mounted above it.
+
+![Microswitch below handle](images/tube_fitting.jpg)
+
 
 My first prototype had the lamp mounted on the underside of the lid, but I found that items kept touching the lamp and the lamp could also get damaged when removing the lid and placing it on another surface.
 
@@ -97,27 +108,31 @@ Upload the file:'ronacop_uv_controller.ino' to your arduino using the Arduino ID
 Place an item to sterilise inside the box and close the lid.
 
 
-Power the device on and you should see the following screen:
+Power the device on and you should see the following screen (it is currently in Afrikaans. i18n PR are welcome :-)) :
 
+![Start screen](images/screen_1.jpg)
 
 Select a time and the indicator light will light up and the timer will start counting down. After the timer ends, an audible alarm will sound and indicate the total hours that the lamp has been used.
 
+![Running screen](images/screen_2.png)
+
+
 If light does not detect that the lamp is on, a warning tone will sound and a message will appear:
 
-This usually means that the lid is not properly closed of that there is something wrong with your lamp.
+![Light not on screen](images/screen_3.png)
+
+
+This usually means that the lid is not properly closed or that there is something wrong with your lamp.
+
+When sterilisation is done, the buzzer will sound and the following notification will be on the screen:
+
+![Done screen](images/screen_4.png)
+
 
 
 ### Demo:
 
-
-
-
-
-
-
-
-
-The lamp 
+Video coming soon
 
 # Future improvements
 - Use a case that allows one handed operation

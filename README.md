@@ -87,7 +87,7 @@ I also mounted the light sensor so that it points directly at the lamp.
 
 ## Step 2: The electronics
 The electronics were wired as follows:
-
+![Schematic](schematic.png)
 
 
 ## Step 3: The code
